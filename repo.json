@@ -2,10 +2,10 @@
   "RepositoryName": "Kumiki",
   "RepositoryDescription": "Mainly fix and anime",
   "RepositoryAuthor": "Kumiki",
-  "RepositoryIcon": "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/RepositoryIcon.jpeg",
+  "RepositoryIcon": "https://raw.githubusercontent.com/shimajiron/misakarepo/main/image/RepositoryIcon.jpeg",
   "RepositoryWebsite": null,
   "Default": {
-    "HeaderImage": "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/DefaultHeaderImage.jpg",
+    "HeaderImage": "https://raw.githubusercontent.com/shimajiron/misakarepo/main/image/DefaultHeaderImage.jpg",
     "ViewCount": false
   },
   "RepositoryContents": [
@@ -23,23 +23,23 @@
           }
         ]
       },
-      "Icon": "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/icon/com.Kumiki.LockAppleEvent2023.png",
+      "Icon": "https://raw.githubusercontent.com/shimajiron/misakarepo/main/image/icon/com.Kumiki.LockAppleEvent2023.png",
       "HeaderImage": null,
       "Category": "Lock Screen",
       "Caption": "Wonderlust",
       "Screenshot": [
-        "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/sc/com.Kumiki.LockAppleEvent2023-1.png",
-        "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/sc/com.Kumiki.LockAppleEvent2023-2.png"
+        "https://raw.githubusercontent.com/shimajiron/misakarepo/main/image/sc/com.Kumiki.LockAppleEvent2023-1.png",
+        "https://raw.githubusercontent.com/shimajiron/misakarepo/main/image/sc/com.Kumiki.LockAppleEvent2023-2.png"
       ],
       "Releases": [
         {
           "Version": "1.0",
-          "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/com.Kumiki.LockAppleEvent2023-v1.0.misaka",
+          "Package": "https://raw.githubusercontent.com/shimajiron/misakarepo/main/file/com.Kumiki.LockAppleEvent2023-v1.0.misaka",
           "Description": null
         },
         {
           "Version": "1.1",
-          "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/com.Kumiki.LockAppleEvent2023-v1.1.misaka",
+          "Package": "https://raw.githubusercontent.com/shimajiron/misakarepo/main/file/com.Kumiki.LockAppleEvent2023-v1.1.misaka",
           "Description": "change animation"
         }
       ],
@@ -63,27 +63,27 @@
           }
         ]
       },
-      "Icon": "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/icon/com.Kumiki.LockAppleEvent.png",
+      "Icon": "https://raw.githubusercontent.com/shimajiron/misakarepo/main/image/icon/com.Kumiki.LockAppleEvent.png",
       "HeaderImage": null,
       "Category": "Lock Screen",
       "Caption": null,
       "Screenshot": [
-        "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/sc/com.Kumiki.LockAppleEvent-1.gif"
+        "https://raw.githubusercontent.com/shimajiron/misakarepo/main/image/sc/com.Kumiki.LockAppleEvent-1.gif"
       ],
       "Releases": [
         {
           "Version": "1.0",
-          "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/com.Kumiki.LockAppleEvent-v1.0.misaka",
+          "Package": "https://raw.githubusercontent.com/shimajiron/misakarepo/main/file/com.Kumiki.LockAppleEvent-v1.0.misaka",
           "Description": null
         },
         {
           "Version": "1.1",
-          "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/com.Kumiki.LockAppleEvent-v1.1.misaka",
+          "Package": "https://raw.githubusercontent.com/shimajiron/misakarepo/main/file/com.Kumiki.LockAppleEvent-v1.1.misaka",
           "Description": "Change path"
         },
         {
           "Version": "1.2",
-          "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/com.Kumiki.LockAppleEvent-v1.2.misaka",
+          "Package": "https://raw.githubusercontent.com/shimajiron/misakarepo/main/file/com.Kumiki.LockAppleEvent-v1.2.misaka",
           "Description": "Support ipad"
         }
       ],
@@ -107,7 +107,7 @@
           }
         ]
       },
-      "Icon": "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/icon/com.Kumiki.LockHello.png",
+      "Icon": "https://raw.githubusercontent.com/shimajiron/misakarepo/main/image/icon/com.Kumiki.LockHello.png",
       "HeaderImage": null,
       "Category": "Lock Screen",
       "Caption": "Normal,White,Black",
@@ -115,17 +115,17 @@
       "Releases": [
         {
           "Version": "1.0",
-          "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/com.Kumiki.LockHello-v1.0.misaka",
+          "Package": "https://raw.githubusercontent.com/shimajiron/misakarepo/main/file/com.Kumiki.LockHello-v1.0.misaka",
           "Description": null
         },
         {
           "Version": "2.0",
-          "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/com.Kumiki.LockHello-v2.0.misaka",
+          "Package": "https://raw.githubusercontent.com/shimajiron/misakarepo/main/file/com.Kumiki.LockHello-v2.0.misaka",
           "Description": "Add another color hello"
         },
         {
           "Version": "2.1",
-          "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/com.Kumiki.LockHello-v2.1.misaka",
+          "Package": "https://raw.githubusercontent.com/shimajiron/misakarepo/main/file/com.Kumiki.LockHello-v2.1.misaka",
           "Description": "Support ipad"
         }
       ],
@@ -149,23 +149,23 @@
           }
         ]
       },
-      "Icon": "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/icon/com.Kumiki.HideCC.png",
-      "HeaderImage": "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/hidecc_header.jpg",
+      "Icon": "https://raw.githubusercontent.com/shimajiron/misakarepo/main/image/icon/com.Kumiki.HideCC.png",
+      "HeaderImage": "https://raw.githubusercontent.com/shimajiron/misakarepo/main/image/hidecc_header.jpg",
       "Category": "Control Center",
       "Caption": "Hide Focus and Mirroring",
       "Screenshot": [
-        "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/sc/com.Kumiki.HideCC-1.png",
-        "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/sc/com.Kumiki.HideCC-2.png"
+        "https://raw.githubusercontent.com/shimajiron/misakarepo/main/image/sc/com.Kumiki.HideCC-1.png",
+        "https://raw.githubusercontent.com/shimajiron/misakarepo/main/image/sc/com.Kumiki.HideCC-2.png"
       ],
       "Releases": [
         {
           "Version": "1.1",
-          "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/com.Kumiki.HideCC-v1.1.misaka",
+          "Package": "https://raw.githubusercontent.com/shimajiron/misakarepo/main/file/com.Kumiki.HideCC-v1.1.misaka",
           "Description": "Possible to choose which to turn off."
         },
         {
           "Version": "2.0",
-          "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/com.Kumiki.HideCC-v2.0.misaka",
+          "Package": "https://raw.githubusercontent.com/shimajiron/misakarepo/main/file/com.Kumiki.HideCC-v2.0.misaka",
           "Description": "Possible to choose which to turn off."
         }
       ],
@@ -190,17 +190,17 @@
           }
         ]
       },
-      "Icon": "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/icon/com.Kumiki.NoNameBatteryWidget.png",
+      "Icon": "https://raw.githubusercontent.com/shimajiron/misakarepo/main/image/icon/com.Kumiki.NoNameBatteryWidget.png",
       "HeaderImage": null,
       "Category": "SpringBoard",
       "Caption": "Remove text from battery widget",
       "Screenshot": [
-        "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/sc/com.Kumiki.NoNameBatteryWidget-1.png"
+        "https://raw.githubusercontent.com/shimajiron/misakarepo/main/image/sc/com.Kumiki.NoNameBatteryWidget-1.png"
       ],
       "Releases": [
         {
           "Version": "1.1",
-          "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/com.Kumiki.NoNameBatteryWidget-v1.1.misaka",
+          "Package": "https://raw.githubusercontent.com/shimajiron/misakarepo/main/file/com.Kumiki.NoNameBatteryWidget-v1.1.misaka",
           "Description": "Compatible with iOS15 and iOS16"
         }
       ],
@@ -220,47 +220,47 @@
           }
         ]
       },
-      "Icon": "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/icon/com.Kumiki.LockOnimai.png",
+      "Icon": "https://raw.githubusercontent.com/shimajiron/misakarepo/main/image/icon/com.Kumiki.LockOnimai.png",
       "HeaderImage": null,
       "Category": "Lock Screen",
       "Caption": "お兄ちゃんはおしまい！",
       "Screenshot": [
-        "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/sc/com.Kumiki.LockOnimai-1.gif"
+        "https://raw.githubusercontent.com/shimajiron/misakarepo/main/image/sc/com.Kumiki.LockOnimai-1.gif"
       ],
       "Releases": [
         {
           "Version": "1.0",
-          "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/com.Kumiki.LockOnimai-v1.0.misaka",
+          "Package": "https://raw.githubusercontent.com/shimajiron/misakarepo/main/file/com.Kumiki.LockOnimai-v1.0.misaka",
           "Description": null
         },
         {
           "Version": "1.1",
-          "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/com.Kumiki.LockOnimai-v1.1.misaka",
+          "Package": "https://raw.githubusercontent.com/shimajiron/misakarepo/main/file/com.Kumiki.LockOnimai-v1.1.misaka",
           "Description": "%Optional%"
         },
         {
           "Version": "1.2",
-          "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/com.Kumiki.LockOnimai-v1.2.misaka",
+          "Package": "https://raw.githubusercontent.com/shimajiron/misakarepo/main/file/com.Kumiki.LockOnimai-v1.2.misaka",
           "Description": "File size issue fixed"
         },
         {
           "Version": "1.3",
-          "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/com.Kumiki.LockOnimai-v1.3.misaka",
+          "Package": "https://raw.githubusercontent.com/shimajiron/misakarepo/main/file/com.Kumiki.LockOnimai-v1.3.misaka",
           "Description": "main.caml fixed"
         },
         {
           "Version": "1.4",
-          "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/com.Kumiki.LockOnimai-v1.4.misaka",
+          "Package": "https://raw.githubusercontent.com/shimajiron/misakarepo/main/file/com.Kumiki.LockOnimai-v1.4.misaka",
           "Description": "File name fixed"
         },
         {
           "Version": "1.5",
-          "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/com.Kumiki.LockOnimai-v1.5.misaka",
+          "Package": "https://raw.githubusercontent.com/shimajiron/misakarepo/main/file/com.Kumiki.LockOnimai-v1.5.misaka",
           "Description": "Change path"
         },
         {
           "Version": "1.6",
-          "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/com.Kumiki.LockOnimai-v1.6.misaka",
+          "Package": "https://raw.githubusercontent.com/shimajiron/misakarepo/main/file/com.Kumiki.LockOnimai-v1.6.misaka",
           "Description": "Support ipad"
         }
       ],
@@ -284,32 +284,32 @@
           }
         ]
       },
-      "Icon": "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/icon/com.Kumiki.ClockOnimai.png",
+      "Icon": "https://raw.githubusercontent.com/shimajiron/misakarepo/main/image/icon/com.Kumiki.ClockOnimai.png",
       "HeaderImage": null,
       "Category": "Clock",
       "Caption": "あさひ、ねむ、もみじを Tweak Settingsから選択可！",
       "Screenshot": [
-        "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/sc/com.Kumiki.ClockOnimai-1.png"
+        "https://raw.githubusercontent.com/shimajiron/misakarepo/main/image/sc/com.Kumiki.ClockOnimai-1.png"
       ],
       "Releases": [
         {
           "Version": "1.0",
-          "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/com.Kumiki.ClockOnimai-v1.0.misaka",
+          "Package": "https://raw.githubusercontent.com/shimajiron/misakarepo/main/file/com.Kumiki.ClockOnimai-v1.0.misaka",
           "Description": null
         },
         {
           "Version": "1.1",
-          "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/com.Kumiki.ClockOnimai-v1.1.misaka",
+          "Package": "https://raw.githubusercontent.com/shimajiron/misakarepo/main/file/com.Kumiki.ClockOnimai-v1.1.misaka",
           "Description": "File size issue fixed"
         },
         {
           "Version": "1.2",
-          "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/com.Kumiki.ClockOnimai-v1.2.misaka",
+          "Package": "https://raw.githubusercontent.com/shimajiron/misakarepo/main/file/com.Kumiki.ClockOnimai-v1.2.misaka",
           "Description": "Responding to specification changes"
         },
         {
           "Version": "1.3",
-          "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/com.Kumiki.ClockOnimai-v1.3.misaka",
+          "Package": "https://raw.githubusercontent.com/shimajiron/misakarepo/main/file/com.Kumiki.ClockOnimai-v1.3.misaka",
           "Description": "support ios16"
         }
       ],
@@ -337,12 +337,12 @@
       "Releases": [
         {
           "Version": "1.0",
-          "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/com.Kumiki.HideSwipeUnlock-v1.0.misaka",
+          "Package": "https://raw.githubusercontent.com/shimajiron/misakarepo/main/file/com.Kumiki.HideSwipeUnlock-v1.0.misaka",
           "Description": null
         },
         {
           "Version": "1.1",
-          "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/com.Kumiki.HideSwipeUnlock-v1.1.misaka",
+          "Package": "https://raw.githubusercontent.com/shimajiron/misakarepo/main/file/com.Kumiki.HideSwipeUnlock-v1.1.misaka",
           "Description": "「上にスワイプしてロック解除」が消せていなかったので修正"
         }
       ],
@@ -363,7 +363,7 @@
           }
         ]
       },
-      "Icon": "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/icon/com.yangjiii.bigsurclockiconfix.png",
+      "Icon": "https://raw.githubusercontent.com/shimajiron/misakarepo/main/image/icon/com.yangjiii.bigsurclockiconfix.png",
       "HeaderImage": null,
       "Category": "Clock",
       "Caption": "Change your clock icon\n(File size issue fixed)",
@@ -371,12 +371,12 @@
       "Releases": [
         {
           "Version": "1.0",
-          "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/com.yangjiii.bigsurclockiconfix-v1.0.misaka",
+          "Package": "https://raw.githubusercontent.com/shimajiron/misakarepo/main/file/com.yangjiii.bigsurclockiconfix-v1.0.misaka",
           "Description": "Change your clock icon"
         },
         {
           "Version": "1.1",
-          "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/com.yangjiii.bigsurclockiconfix-v1.1.misaka",
+          "Package": "https://raw.githubusercontent.com/shimajiron/misakarepo/main/file/com.yangjiii.bigsurclockiconfix-v1.1.misaka",
           "Description": "File size issue fixed"
         }
       ],
@@ -397,22 +397,22 @@
           }
         ]
       },
-      "Icon": "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/icon/com.yangjiii.nayanlsuifix.png",
+      "Icon": "https://raw.githubusercontent.com/shimajiron/misakarepo/main/image/icon/com.yangjiii.nayanlsuifix.png",
       "HeaderImage": null,
       "Category": "Lock Screen",
       "Caption": "Change camera and flash icon\n(Add icon when charging)",
       "Screenshot": [
-        "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/sc/com.yangjiii.nayanlsuifix-1.jpg"
+        "https://raw.githubusercontent.com/shimajiron/misakarepo/main/image/sc/com.yangjiii.nayanlsuifix-1.jpg"
       ],
       "Releases": [
         {
           "Version": "1.0",
-          "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/com.yangjiii.nayanlsuifix-v1.0.misaka",
+          "Package": "https://raw.githubusercontent.com/shimajiron/misakarepo/main/file/com.yangjiii.nayanlsuifix-v1.0.misaka",
           "Description": "Change camera and flash icon"
         },
         {
           "Version": "1.1",
-          "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/com.yangjiii.nayanlsuifix-v1.1.misaka",
+          "Package": "https://raw.githubusercontent.com/shimajiron/misakarepo/main/file/com.yangjiii.nayanlsuifix-v1.1.misaka",
           "Description": "Add icon when charging"
         }
       ],
@@ -433,27 +433,27 @@
           }
         ]
       },
-      "Icon": "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/icon/com.hn.tncfix.png",
+      "Icon": "https://raw.githubusercontent.com/shimajiron/misakarepo/main/image/icon/com.hn.tncfix.png",
       "HeaderImage": null,
       "Category": "Lock Screen",
       "Caption": "checkra1n bright your light\n(Support @2x, Add icon when charging)",
       "Screenshot": [
-        "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/sc/com.hn.tncfix-1.png"
+        "https://raw.githubusercontent.com/shimajiron/misakarepo/main/image/sc/com.hn.tncfix-1.png"
       ],
       "Releases": [
         {
           "Version": "1.0",
-          "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/com.hn.tncfix-v1.0.misaka",
+          "Package": "https://raw.githubusercontent.com/shimajiron/misakarepo/main/file/com.hn.tncfix-v1.0.misaka",
           "Description": "Torch and Camera or checkra1n and snowflake? 🤣"
         },
         {
           "Version": "1.1",
-          "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/com.hn.tncfix-v1.1.misaka",
+          "Package": "https://raw.githubusercontent.com/shimajiron/misakarepo/main/file/com.hn.tncfix-v1.1.misaka",
           "Description": "Support @2x"
         },
         {
           "Version": "1.2",
-          "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/com.hn.tncfix-v1.2.misaka",
+          "Package": "https://raw.githubusercontent.com/shimajiron/misakarepo/main/file/com.hn.tncfix-v1.2.misaka",
           "Description": "Add icon when charging"
         }
       ],
@@ -474,27 +474,27 @@
           }
         ]
       },
-      "Icon": "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/icon/com.hn.gstorchfix.png",
+      "Icon": "https://raw.githubusercontent.com/shimajiron/misakarepo/main/image/icon/com.hn.gstorchfix.png",
       "HeaderImage": null,
       "Category": "Lock Screen",
       "Caption": "Change Torch and Camera icon to Genshin Elements\nSupport both iOS 15 and 16\n(Support @2x, Add icon when charging)",
       "Screenshot": [
-        "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/sc/com.hn.gstorchfix-1.png"
+        "https://raw.githubusercontent.com/shimajiron/misakarepo/main/image/sc/com.hn.gstorchfix-1.png"
       ],
       "Releases": [
         {
           "Version": "1.0",
-          "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/com.hn.gstorchfix-v1.0.misaka",
+          "Package": "https://raw.githubusercontent.com/shimajiron/misakarepo/main/file/com.hn.gstorchfix-v1.0.misaka",
           "Description": "Little 34306 in your area!"
         },
         {
           "Version": "1.1",
-          "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/com.hn.gstorchfix-v1.1.misaka",
+          "Package": "https://raw.githubusercontent.com/shimajiron/misakarepo/main/file/com.hn.gstorchfix-v1.1.misaka",
           "Description": "Support @2x"
         },
         {
           "Version": "1.2",
-          "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/com.hn.gstorchfix-v1.2.misaka",
+          "Package": "https://raw.githubusercontent.com/shimajiron/misakarepo/main/file/com.hn.gstorchfix-v1.2.misaka",
           "Description": "Add icon when charging"
         }
       ],
@@ -519,22 +519,22 @@
           }
         ]
       },
-      "Icon": "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/icon/com.34306.mhrclockfix.png",
+      "Icon": "https://raw.githubusercontent.com/shimajiron/misakarepo/main/image/icon/com.34306.mhrclockfix.png",
       "HeaderImage": null,
       "Category": "Clock",
       "Caption": "Mahiro-chan does not want to become a girl, Mihari 🥺\n(File size issue fixed)",
       "Screenshot": [
-        "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/sc/com.34306.mhrclockfix-1.png"
+        "https://raw.githubusercontent.com/shimajiron/misakarepo/main/image/sc/com.34306.mhrclockfix-1.png"
       ],
       "Releases": [
         {
           "Version": "1.0",
-          "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/com.34306.mhrclockfix-v1.0.misaka",
+          "Package": "https://raw.githubusercontent.com/shimajiron/misakarepo/main/file/com.34306.mhrclockfix-v1.0.misaka",
           "Description": "Onimaiiii!"
         },
         {
           "Version": "1.1",
-          "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/com.34306.mhrclockfix-v1.1.misaka",
+          "Package": "https://raw.githubusercontent.com/shimajiron/misakarepo/main/file/com.34306.mhrclockfix-v1.1.misaka",
           "Description": "File size issue fixed"
         }
       ],
@@ -555,28 +555,28 @@
           }
         ]
       },
-      "Icon": "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/icon/com.coolwcat.lsui15fix.png",
+      "Icon": "https://raw.githubusercontent.com/shimajiron/misakarepo/main/image/icon/com.coolwcat.lsui15fix.png",
       "HeaderImage": null,
       "Category": "Lock Screen",
       "Caption": "iOS 15&16 Change camera and flash icon\n(File size issue fixed, Add icon when charging)",
       "Screenshot": [
-        "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/sc/com.coolwcat.lsui15fix-1.png",
-        "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/sc/com.coolwcat.lsui15fix-2.png"
+        "https://raw.githubusercontent.com/shimajiron/misakarepo/main/image/sc/com.coolwcat.lsui15fix-1.png",
+        "https://raw.githubusercontent.com/shimajiron/misakarepo/main/image/sc/com.coolwcat.lsui15fix-2.png"
       ],
       "Releases": [
         {
           "Version": "1.0",
-          "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/com.coolwcat.lsui15fix-v1.0.misaka",
+          "Package": "https://raw.githubusercontent.com/shimajiron/misakarepo/main/file/com.coolwcat.lsui15fix-v1.0.misaka",
           "Description": null
         },
         {
           "Version": "1.1",
-          "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/com.coolwcat.lsui15fix-v1.1.misaka",
+          "Package": "https://raw.githubusercontent.com/shimajiron/misakarepo/main/file/com.coolwcat.lsui15fix-v1.1.misaka",
           "Description": "File size issue fixed"
         },
         {
           "Version": "1.2",
-          "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/com.coolwcat.lsui15fix-v1.2.misaka",
+          "Package": "https://raw.githubusercontent.com/shimajiron/misakarepo/main/file/com.coolwcat.lsui15fix-v1.2.misaka",
           "Description": "Add icon when charging"
         }
       ],
@@ -597,28 +597,28 @@
           }
         ]
       },
-      "Icon": "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/icon/com.coolwcat.nooldernotificationsfix.png",
+      "Icon": "https://raw.githubusercontent.com/shimajiron/misakarepo/main/image/icon/com.coolwcat.nooldernotificationsfix.png",
       "HeaderImage": null,
       "Category": "Lock Screen",
       "Caption": "iOS 15 No Older Notifications\n(Multilingual support)",
       "Screenshot": [
-        "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/sc/com.coolwcat.nooldernotificationsfix-1.png",
-        "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/sc/com.coolwcat.nooldernotificationsfix-2.png"
+        "https://raw.githubusercontent.com/shimajiron/misakarepo/main/image/sc/com.coolwcat.nooldernotificationsfix-1.png",
+        "https://raw.githubusercontent.com/shimajiron/misakarepo/main/image/sc/com.coolwcat.nooldernotificationsfix-2.png"
       ],
       "Releases": [
         {
           "Version": "1.0",
-          "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/com.coolwcat.nooldernotificationsfix-v1.0.misaka",
+          "Package": "https://raw.githubusercontent.com/shimajiron/misakarepo/main/file/com.coolwcat.nooldernotificationsfix-v1.0.misaka",
           "Description": null
         },
         {
           "Version": "1.1",
-          "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/com.coolwcat.nooldernotificationsfix-v1.1.misaka",
+          "Package": "https://raw.githubusercontent.com/shimajiron/misakarepo/main/file/com.coolwcat.nooldernotificationsfix-v1.1.misaka",
           "Description": "Delete unnecessary parts of plist files"
         },
         {
           "Version": "1.2",
-          "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/com.coolwcat.nooldernotificationsfix-v1.2.misaka",
+          "Package": "https://raw.githubusercontent.com/shimajiron/misakarepo/main/file/com.coolwcat.nooldernotificationsfix-v1.2.misaka",
           "Description": "Hide Notification Center"
         }
       ],
@@ -639,21 +639,21 @@
           }
         ]
       },
-      "Icon": "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/icon/com.sugiuta.lspokebuttonfix.png",
+      "Icon": "https://raw.githubusercontent.com/shimajiron/misakarepo/main/image/icon/com.sugiuta.lspokebuttonfix.png",
       "Category": "Lock Screen",
       "Caption": "Pokemon on LS!\n(Add icon when charging)",
       "Screenshot": [
-        "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/sc/com.sugiuta.lspokebuttonfix-1.png"
+        "https://raw.githubusercontent.com/shimajiron/misakarepo/main/image/sc/com.sugiuta.lspokebuttonfix-1.png"
       ],
       "Releases": [
         {
           "Version": "0.1",
-          "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/com.sugiuta.lspokebuttonfix-v0.1.misaka",
+          "Package": "https://raw.githubusercontent.com/shimajiron/misakarepo/main/file/com.sugiuta.lspokebuttonfix-v0.1.misaka",
           "Description": "Initial release"
         },
         {
           "Version": "0.2",
-          "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/com.sugiuta.lspokebuttonfix-v0.2.misaka",
+          "Package": "https://raw.githubusercontent.com/shimajiron/misakarepo/main/file/com.sugiuta.lspokebuttonfix-v0.2.misaka",
           "Description": "Add icon when charging"
         }
       ],
@@ -680,20 +680,20 @@
           }
         ]
       },
-      "Icon": "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/icon/com.hackzy.oneccfix.png",
+      "Icon": "https://raw.githubusercontent.com/shimajiron/misakarepo/main/image/icon/com.hackzy.oneccfix.png",
       "Screenshot": [
-        "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/sc/com.hackzy.oneccfix-1.png",
-        "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/sc/com.hackzy.oneccfix-2.png"
+        "https://raw.githubusercontent.com/shimajiron/misakarepo/main/image/sc/com.hackzy.oneccfix-1.png",
+        "https://raw.githubusercontent.com/shimajiron/misakarepo/main/image/sc/com.hackzy.oneccfix-2.png"
       ],
       "Releases": [
         {
           "Version": "1.0",
-          "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/com.hackzy.oneccfix-v1.0.misaka",
+          "Package": "https://raw.githubusercontent.com/shimajiron/misakarepo/main/file/com.hackzy.oneccfix-v1.0.misaka",
           "Description": "Special credits to YangJii who's method is used in this tweak"
         },
         {
           "Version": "1.1",
-          "Package": "https://raw.githubusercontent.com/chimaha/misakarepo/main/file/com.hackzy.oneccfix-v1.1.misaka",
+          "Package": "https://raw.githubusercontent.com/shimajiron/misakarepo/main/file/com.hackzy.oneccfix-v1.1.misaka",
           "Description": "toggle bug fix"
         }
       ],
